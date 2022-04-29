@@ -3,7 +3,7 @@
 ## Intro
 This is my pwa text editor! With it you can edit some text! Make sure to install with `npm install` in both the server and client folders and the root. 
 
-##Link
+## Link
 Heroku Deployed Link: https://note-taker-pwa-homework.herokuapp.com/
 
 
