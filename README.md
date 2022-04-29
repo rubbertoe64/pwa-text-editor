@@ -1,13 +1,13 @@
 # pwa-text-editor
 
-##Intro
+## Intro
 This is my pwa text editor! With it you can edit some text! Make sure to install with `npm install` in both the server and client folders and the root. 
 
 ##Link
 Heroku Deployed Link: https://note-taker-pwa-homework.herokuapp.com/
 
 
-##Images
+## Images
 Working as a PWA
 ![pwa](https://user-images.githubusercontent.com/71856810/165899310-3bbe32a3-55d9-45fb-b0d5-05af2ce7b6dc.PNG)
 
